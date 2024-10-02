@@ -14,7 +14,3 @@
 body {
   font-family: "League Spartan", sans-serif;
 }
-
-.hover-class {
-  @apply border-b-2 border-white w-[2px];
-}
