@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
 import Header from './Header'
-import { imageData } from './../data'
+import { imageData } from './../data.ts'
 
 export default function Home() {
   const [currentIndex, setCurrentIndex] = useState(0)
